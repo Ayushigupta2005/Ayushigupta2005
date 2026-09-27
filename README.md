@@ -107,7 +107,7 @@ AI-powered image caption generation system using CNN-LSTM architecture with Fast
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/ayushi-gupta-288946251/">
+<a href="">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
