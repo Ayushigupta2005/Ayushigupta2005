@@ -9,7 +9,7 @@ Software Engineer • Android Developer • AI Enthusiast • Full Stack
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayushi-gupta-288946251/">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
